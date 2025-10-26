@@ -15,18 +15,6 @@ API-GATEWAY/
 │       ├── .env                       # Environment variables (not tracked in git)
 │       ├── .env.example               # Environment variables template
 │       └── application.properties     # Spring application configuration
-├── target/
-│   ├── classes/
-│   ├── generated-sources/
-│   ├── generated-test-sources/
-│   ├── maven-archiver/
-│   ├── maven-status/
-│   ├── test-classes/
-│   └── api-gateway-1.0.0.jar         # Built application JAR
-├── .gitattributes
-├── .gitignore
-├── mvnw                            # Maven wrapper (Unix/Linux)
-├── mvnw.cmd                        # Maven wrapper (Windows)
 └── pom.xml                         # Maven dependencies and build configuration
 ```
 
