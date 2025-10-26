@@ -12,7 +12,6 @@ API-GATEWAY/
 │   │   ├── GatewayErrorHandlerConfig.java # Error handling configuration
 │   │   └── ApiGatewayApplication.java # Main application class
 │   └── resources/
-│       ├── .env                       # Environment variables (not tracked in git)
 │       ├── .env.example               # Environment variables template
 │       └── application.properties     # Spring application configuration
 └── pom.xml                         # Maven dependencies and build configuration
